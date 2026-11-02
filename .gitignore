@@ -1,0 +1,21 @@
+# Compiled programs
+canteen
+canteen.exe
+college_canteen_system
+campusbite
+campusbite.exe
+*.out
+
+# Runtime data files
+menu.dat
+orders.dat
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Chat workspace attachments
+upload/
+.codex/
